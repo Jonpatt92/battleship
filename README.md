@@ -5,7 +5,7 @@ Based on the classic boardgame 'Battleship', this app runs in Mac OS terminal an
 * Clone this Repo
 * `cd` into the 'battleship' directory
 * Make sure you are running Ruby 2.4.1
-* Enter Command: `ruby runner/runner.rb
+* Enter Command: `ruby runner/runner.rb`
 * Follow the prompts to play battleship!
 
 # Tech Stack 
